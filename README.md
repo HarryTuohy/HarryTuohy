@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ... Complex Variables, Databases, Statistics
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... harryjtuohy@gmail.com
-- 😄 Pronouns: ... he/him 
-- ⚡ Fun fact: ... Currently learning how to speak Greek .. because why not. 
+- 😄 Pronouns: ... 
+- ⚡ Fun fact: ... 
 
 <!---
 HarryTuohy/HarryTuohy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
