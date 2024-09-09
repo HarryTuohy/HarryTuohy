@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HarryTuohy
-- 👀 I’m interested in ... Software Engineering, Machine Learning, ALgorithm Design 
+- 👀 I’m interested in ... Software Engineering, Machine Learning, Algorithm Design 
 - 🌱 I’m currently learning ... Complex Variables, Databases, O.O.P.
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... harryjtuohy@gmail.com
